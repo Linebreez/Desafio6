@@ -1,0 +1,174 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+  }
+  
+  h1 {
+    margin: 45px 0 35px 17px;
+    font-weight: normal;
+  }
+  
+  ul {
+    margin-left: 82px;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  .menu {
+    margin: 42px 0 18px 17px;
+    font-size: 24px;
+    font-weight: normal;
+  }
+  
+  .botao-x {
+    margin: 0 0 32px 20px;
+    padding: 2px 8px;
+    background: #e5e5e5;
+    font-size: 24px;
+    border: none;
+  }
+  
+  .p-email {
+    margin: 0 0 38px 17px;
+  }
+  
+  .titulo-adote-um-amigo {
+    margin: 0 0 65px 23px;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500px;
+  }
+  
+  .botao-fazer-doacao,
+  .botao-adotar-cachorrinho {
+    margin: 0 0 32px 23px;
+    font-size: 20px;
+    padding: 6px 13px;
+    background: #cdcdd2;
+    border: none;
+    box-shadow: 1.5px 3px black;
+    border-radius: 2.5px;
+  }
+  
+  /*Seção Sobre*/
+  
+  .titulo-sobre {
+    margin: 0 0 28px 24px;
+    font-size: 30px;
+    font-weight: 500px;
+  }
+  
+  .p-sobre {
+    margin: 0 81px 19px 28px;
+  }
+  
+  .botao-seja-voluntario {
+    margin: 25px 0 48px 24px;
+    font-size: 20px;
+    padding: 6px 16px;
+    border: #bfbdbd 1px solid;
+    background: #cdcdd2;
+  }
+  
+  .fundo-cinza {
+    margin-left: 24px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+  
+  /*Seção Adote*/
+  
+  .titulo-adote {
+    margin: 42px 0 36px 38px;
+    font-weight: 500px;
+  }
+  
+  .p-adote {
+    margin: 0 0 78px 38px;
+  }
+  
+  div {
+    display: inline-block;
+  }
+  
+  .nome-cachorrinho,
+  .p-idade-cachorrinho {
+    margin: 0 0 10px 0;
+    font-weight: 400px;
+  }
+  
+  .botao-adotar {
+    margin-top: 10px;
+    font-size: 16px;
+    padding: 3px 11px;
+    border: #bfbdbd 1px solid;
+    background-color: #cdcdd2;
+  }
+  
+  img {
+    margin-bottom: 18px;
+    width: 160px;
+    height: 110px;
+  }
+  
+  .div-luna {
+    margin: 0 0 0 45px;
+  }
+  
+  .img-luna {
+    margin-bottom: 8px;
+  }
+  
+  .veja-mais {
+    margin: 15px 0 112px 45px;
+  }
+  
+  /*Footer*/
+  
+  footer {
+    margin-left: 27px;
+  }
+  
+  .p-footer {
+    margin-top: 15px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+  }
+  
+  .link-amigao-footer {
+    font-size: 18px;
+    font-style: normal;
+    margin-bottom: 30px;
+    display: block;
+  }
+  
+  .lista-footer {
+    margin: 20px 0 120px 25px;
+  }
+  
+  .icone-facebook {
+    margin-right: 1px;
+    width: 20px;
+    height: 20px;
+  }
+  .icone-instagram {
+    margin-right: 1px;
+    width: 28px;
+    height: 28px;
+  }
+  
+  .icone-m {
+    width: 24px;
+    height: 24px;
+  }
+  
